@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "1026910825212",
+    "firebase_url": "https://my-college-app-c1cdc-default-rtdb.firebaseio.com",
+    "project_id": "my-college-app-c1cdc",
+    "storage_bucket": "my-college-app-c1cdc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026910825212:android:e9bceb3e6c56c7ceecc579",
+        "android_client_info": {
+          "package_name": "com.example.collegeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1026910825212-h93tp0jsq05ohi4b97iq61nb9hn3gg6r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3vzU4Nd8GGk-3FnwMNnGMCyc4WcTibr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1026910825212-h93tp0jsq05ohi4b97iq61nb9hn3gg6r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026910825212:android:1396dfc6bb7c326becc579",
+        "android_client_info": {
+          "package_name": "com.org.smartcollegeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1026910825212-1dtfgj7o7d7kn60b9jfiaeisgsr5kc7i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.org.smartcollegeapp",
+            "certificate_hash": "c35236557ed9f9ee8d327853c35a833670128b44"
+          }
+        },
+        {
+          "client_id": "1026910825212-h93tp0jsq05ohi4b97iq61nb9hn3gg6r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3vzU4Nd8GGk-3FnwMNnGMCyc4WcTibr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1026910825212-h93tp0jsq05ohi4b97iq61nb9hn3gg6r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

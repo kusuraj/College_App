@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">User College App</string>
+    <string name="bold" tools:ignore="ReferenceType">@font/latobold</string>
+    <string name="light" tools:ignore="ReferenceType">@font/latolight</string>
+    <string name="regular" tools:ignore="ReferenceType">@font/latoregular</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="start">Start</string>
+    <string name="close">Close</string>
+    <string name="about">About</string>
+    <string name="address">17km Stone, NH-2, Mathura-Delhi Road
+        Mathura, Chaumuhan,
+        Uttar Pradesh 281406 </string>
+
+    <string name="about_college">GLA University is a private university in Mathura,Uttar Pradesh. It has been declared fit to receive central assistance under Section 12B of UGC Act, 1956 after proper assessment for the same by the UGC.It is recognized by University Grants Commission.NCTE and Pharmacy Council of India.It was the year 1991 Shri Narayan Das Agrawal decided to fulfil the dream of his father, Late Shri Ganeshi Lal Agrawal, of establishing an institute for quality education to the people and the region &amp; beyond.Campus of GLA University, Mathura is spread across 110 acres of land offering well designed buildings.</string>
+    <string name="electrical_electronics_eng"><![CDATA[Electrical & Electronics Eng.]]></string>
+
+
+</resources>
